@@ -1,1 +1,2 @@
 - [Diego Cezário](https://github.com/dcezario/)
+- [Meu Consagrado](https://github.com/mathcale)
